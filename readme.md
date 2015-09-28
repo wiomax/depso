@@ -20,7 +20,7 @@ Execute: Enter the directory "myprojects", then run the file "examples.bat".
 Reference
 ---------
 
-[1] Wen-Jun Zhang, Xiao-Feng Xie*. DEPSO: hybrid particle swarm with differential evolution operator. IEEE International Conference on Systems, Man, and Cybernetics (SMCC), Washington, DC, USA, 2003: 3816-3821. (* Corresponding Author)
+[1] Wen-Jun Zhang, Xiao-Feng Xie&lowast;. DEPSO: hybrid particle swarm with differential evolution operator. IEEE International Conference on Systems, Man, and Cybernetics (SMCC), Washington, DC, USA, 2003: 3816-3821. (&lowast; Corresponding Author)
 
 [2] Xiao-Feng Xie, Wen-Jun Zhang, De-Chun Bi. Handling equality constraints by adaptive relaxing rule for swarm algorithms. Congress on Evolutionary Computation (CEC), Portland, OR, USA, 2004: 2012-2016. 
 
