@@ -12,8 +12,8 @@
  * Xiaofeng Xie    Mar 02, 2003
  * Xiaofeng Xie    May 11, 2004
  *
- * @URL: http://www.adaptivebox.net/research/
- * @Email: xiexiaofeng@tsinghua.org.cn
+ * @URL: http://www.wiomax.com/nop/
+ * @Email: xie@wiomax.com, xfxie@alumni.cmu.edu
  * 
  * @Version 1.0
  * @Since MAOS-S1.0
@@ -22,6 +22,9 @@
  * [1] Koziel S, Michalewicz Z. Evolutionary algorithms, homomorphous
  * mappings, and constrained parameter optimization. Evolutionary
  * Computation, 1999, 7: 19-44
+ * [2] X F Xie, W J Zhang. SWAF: Swarm algorithm framework for numerical 
+ * optimization. Genetic and Evolutionary Computation Conference (GECCO), 
+ * Seattle, WA, USA, 2004: 238-250
  */
 
 package problem.constrained;

@@ -15,18 +15,9 @@
  *         in which i means the i-th parameter, LB_P and UB_P are the lower and upper bounds;
  *   3) Realize the function: "double calcTargetAt(double[] VX)",
  *       in which "VX" is an array of parameter values.
- *
- * This library is free software; you can redistribute it and/or
- * modify it under the terms of the GNU Lesser General Public
- * License as published by the Free Software Foundation; either
- * version 2.1 of the License, or (at your option) any later version.
- *
- * This library is distributed in the hope that it will be useful,
- * but WITHOUT ANY WARRANTY; without even the implied warranty of
- * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
- * Lesser General Public License for more details.
- *
- * Please acknowledge the author(s) if you use this code in any way.
+ *       
+ * @URL: http://www.wiomax.com/nop/
+ * @Email: xie@wiomax.com, xfxie@alumni.cmu.edu
  *
  * @version 1.0
  * @Since MAOS1.0
@@ -34,6 +25,8 @@
  * @References:
  * [1] Serra P, Stanton A F, Kais S. Comparison study of pivot methods for global
  *  optimization. J. Chem. Phys, 1997, 106(17): 7170-7177
+ * [2] Xiao-Feng Xie, Jiming Liu. A compact multiagent system based on autonomy oriented computing, 
+ *  IEEE/WIC/ACM International Conference on Intelligent Agent Technology (IAT), Compiégne, France, 2005: 38-44. 
  */
 
 package problem.unconstrained;
