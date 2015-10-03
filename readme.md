@@ -15,11 +15,11 @@ Please acknowledge the author(s) if you use this code in any way.
 Quick start
 -----------
 
-Execute: Enter the directory "myprojects", then run the file "examples.bat".
+- Execute: Enter the directory "myprojects", then run the file "examples.bat".
 
-Compile: Type "ant" to build, and the output will be dist/depso.jar.
+- Compile: Type "ant" to build, and the output will be dist/depso.jar. 
 
-Create problem instances: See src/problem for examples of constrain and unconstrained problem instances.
+- See src/problem for examples of constrain and unconstrained problem instances.
 
 Reference
 ---------
