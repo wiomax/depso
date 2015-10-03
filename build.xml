@@ -58,6 +58,7 @@
             <attribute name="Main-Class" value="${main.class}" />
 	    <attribute name="Title" value="DEPSO"/>
 	    <attribute name="Author" value="Xiao-Feng Xie"/>
+            <attribute name="Organization" value="http://www.wiomax.com"/>
             <attribute name="built-by" value="${user.name}" />
             <attribute name="Built-Date" value="${builtat}"/>                 
         </manifest>
