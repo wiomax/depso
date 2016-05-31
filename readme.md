@@ -17,7 +17,7 @@ Quick start
 
 - Execute: Enter the directory "myprojects", then run the file "examples.bat".
 
-- Compile: Type "ant" to build, and the output will be dist/depso.jar. 
+- Compile: Type "ant" to build, and the output file will be dist/depso.jar. 
 
 - See src/problem for examples of constrain and unconstrained problem instances.
 
