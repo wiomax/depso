@@ -30,6 +30,8 @@ Reference
 
 [3] Xiao-Feng Xie, Jiming Liu. A compact multiagent system based on autonomy oriented computing, IEEE/WIC/ACM International Conference on Intelligent Agent Technology (IAT), Compiégne, France, 2005: 38-44. 
 
+[4] Xiao-Feng Xie, Jiming Liu, Zun-Jing Wang. A cooperative group optimization system. Soft Computing, 2014, 18(3): 469-495. 
+
 General information
 -------------------
 
